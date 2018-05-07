@@ -11,7 +11,7 @@ A corresponding visualization is available [here][viz].
 
 ## Instructions
 
-1. Obtain FASTA (`.fna`) files for a collection of genomic sequences. To use the same sequences analyzed in [this paper][original], you can use the `ids.txt` file in the root of this repository along with the [NCBI Batch Entez tool][ncbi batch entrez]. All considered, this downloads ~400MB of FASTA data.
+1. Obtain FASTA (`.fna`) files for a collection of genomic sequences. To use the same sequences analyzed in [this paper][original paper], you can use the `ids.txt` file in the root of this repository along with the [NCBI Batch Entez tool][ncbi batch entrez]. All considered, this downloads ~400MB of FASTA data.
 
 1. Make sure the [pyfasta][pyfasta] Python library is available in your Python path.
 
